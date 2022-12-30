@@ -1,0 +1,17 @@
+F:\Універ\2 курс\ООП\Лабораторна № 7\Лабораторна № 7\bin\Debug\net6.0-windows\Лабораторна № 7.exe
+F:\Універ\2 курс\ООП\Лабораторна № 7\Лабораторна № 7\bin\Debug\net6.0-windows\Лабораторна № 7.deps.json
+F:\Універ\2 курс\ООП\Лабораторна № 7\Лабораторна № 7\bin\Debug\net6.0-windows\Лабораторна № 7.runtimeconfig.json
+F:\Універ\2 курс\ООП\Лабораторна № 7\Лабораторна № 7\bin\Debug\net6.0-windows\Лабораторна № 7.dll
+F:\Універ\2 курс\ООП\Лабораторна № 7\Лабораторна № 7\bin\Debug\net6.0-windows\Лабораторна № 7.pdb
+F:\Універ\2 курс\ООП\Лабораторна № 7\Лабораторна № 7\obj\Debug\net6.0-windows\Лабораторна № 7.csproj.AssemblyReference.cache
+F:\Універ\2 курс\ООП\Лабораторна № 7\Лабораторна № 7\obj\Debug\net6.0-windows\Лабораторна___7.Form1.resources
+F:\Універ\2 курс\ООП\Лабораторна № 7\Лабораторна № 7\obj\Debug\net6.0-windows\Лабораторна № 7.csproj.GenerateResource.cache
+F:\Універ\2 курс\ООП\Лабораторна № 7\Лабораторна № 7\obj\Debug\net6.0-windows\Лабораторна № 7.GeneratedMSBuildEditorConfig.editorconfig
+F:\Універ\2 курс\ООП\Лабораторна № 7\Лабораторна № 7\obj\Debug\net6.0-windows\Лабораторна № 7.AssemblyInfoInputs.cache
+F:\Універ\2 курс\ООП\Лабораторна № 7\Лабораторна № 7\obj\Debug\net6.0-windows\Лабораторна № 7.AssemblyInfo.cs
+F:\Універ\2 курс\ООП\Лабораторна № 7\Лабораторна № 7\obj\Debug\net6.0-windows\Лабораторна № 7.csproj.CoreCompileInputs.cache
+F:\Універ\2 курс\ООП\Лабораторна № 7\Лабораторна № 7\obj\Debug\net6.0-windows\Лабораторна № 7.dll
+F:\Універ\2 курс\ООП\Лабораторна № 7\Лабораторна № 7\obj\Debug\net6.0-windows\refint\Лабораторна № 7.dll
+F:\Універ\2 курс\ООП\Лабораторна № 7\Лабораторна № 7\obj\Debug\net6.0-windows\Лабораторна № 7.pdb
+F:\Універ\2 курс\ООП\Лабораторна № 7\Лабораторна № 7\obj\Debug\net6.0-windows\Лабораторна № 7.genruntimeconfig.cache
+F:\Універ\2 курс\ООП\Лабораторна № 7\Лабораторна № 7\obj\Debug\net6.0-windows\ref\Лабораторна № 7.dll
