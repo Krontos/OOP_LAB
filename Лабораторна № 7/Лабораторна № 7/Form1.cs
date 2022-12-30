@@ -24,11 +24,11 @@ namespace Лабораторна___7
  
                 Graphics graphics = pictureBox1.CreateGraphics();
                 Pen pen = new Pen(Color.Black, 3f);
-                int arr = (int)((4.5 - (-2)) / 0.1);
+                int arr = (int)((4.5 - (-2)) / 0.5);
                 PointF[] points = new PointF[arr + 1];
                 int i = 0;
                 float y;
-                for (float x = -2F; x <= 4.5; x = x + 0.1F)
+                for (float x = -2F; x <= 4.5; x = x + 0.5F)
                 {
                     y = ((float)Math.Pow(x, 2) + (2 * x)/ (float)(Math.Cos(5 * x) + 2));
                     points[i] = new PointF((float)x * 50, (float)(y * 50));

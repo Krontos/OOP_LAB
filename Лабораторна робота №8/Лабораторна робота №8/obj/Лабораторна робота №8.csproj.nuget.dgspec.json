@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Універ\\Git\\OOP_LAB\\Лабораторна № 7\\Лабораторна № 7\\Лабораторна № 7.csproj": {}
+    "F:\\Універ\\2 курс\\ООП\\Лабораторна робота №8\\Лабораторна робота №8\\Лабораторна робота №8.csproj": {}
   },
   "projects": {
-    "F:\\Універ\\Git\\OOP_LAB\\Лабораторна № 7\\Лабораторна № 7\\Лабораторна № 7.csproj": {
+    "F:\\Універ\\2 курс\\ООП\\Лабораторна робота №8\\Лабораторна робота №8\\Лабораторна робота №8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Універ\\Git\\OOP_LAB\\Лабораторна № 7\\Лабораторна № 7\\Лабораторна № 7.csproj",
-        "projectName": "Лабораторна № 7",
-        "projectPath": "F:\\Універ\\Git\\OOP_LAB\\Лабораторна № 7\\Лабораторна № 7\\Лабораторна № 7.csproj",
+        "projectUniqueName": "F:\\Універ\\2 курс\\ООП\\Лабораторна робота №8\\Лабораторна робота №8\\Лабораторна робота №8.csproj",
+        "projectName": "Лабораторна робота №8",
+        "projectPath": "F:\\Універ\\2 курс\\ООП\\Лабораторна робота №8\\Лабораторна робота №8\\Лабораторна робота №8.csproj",
         "packagesPath": "C:\\Users\\Beeblgo\\.nuget\\packages\\",
-        "outputPath": "F:\\Універ\\Git\\OOP_LAB\\Лабораторна № 7\\Лабораторна № 7\\obj\\",
+        "outputPath": "F:\\Універ\\2 курс\\ООП\\Лабораторна робота №8\\Лабораторна робота №8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0-windows7.0": {
-            "targetAlias": "net6.0-windows",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net6.0-windows7.0": {
-          "targetAlias": "net6.0-windows",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -57,9 +57,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
